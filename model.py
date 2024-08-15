@@ -44,7 +44,7 @@ def set_bg_image(image_file):
     )
 
 # Set the background image
-set_bg_image('/content/pngtree-kids-background-picture-image_693502.jpg')  # replace 'background.jpg' with your image file name
+set_bg_image('pngtree-kids-background-picture-image_693502.jpg')  # replace 'background.jpg' with your image file name
 
 # Set custom CSS for a better layout
 page_css = '''
