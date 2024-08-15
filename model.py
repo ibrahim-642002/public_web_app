@@ -135,6 +135,6 @@ Original file is located at
 #     st.markdown('<p class="instructions">Please upload an image or provide an image URL to generate a caption.</p>', unsafe_allow_html=True)
 #
 
-! wget -q -O - ipv4.icanhazip.com
+#! wget -q -O - ipv4.icanhazip.com
 
-!streamlit run app.py & npx localtunnel --port 8501
+#!streamlit run app.py & npx localtunnel --port 8501
